@@ -13,8 +13,14 @@ height:550px;
     color: brown;
     font-family: 'Satisfy', cursive;
 }
-.card-3{
+.card{
     border-radius: 20px;
+}
+.card-text-color{
+    color: #0A0826;
+}
+.card-button{
+    background-color:#0A0826 ;
 }
 .footer-btn{
  background-color: #000000;
