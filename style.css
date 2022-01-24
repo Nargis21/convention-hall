@@ -11,7 +11,8 @@ height:550px;
     }
 .color-1{
     color: brown;
-} 
+    font-family: 'Satisfy', cursive;
+}
 .card-3{
     border-radius: 20px;
 }
@@ -20,4 +21,8 @@ height:550px;
 }
 .footer-bg{
     background-color: #0B0D17;
+}
+.photo-frame:hover .photo {
+    transform: scale(1.1);
+    transition: transform .5s ease-in-out;
 }
